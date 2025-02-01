@@ -18,7 +18,8 @@ with open(input_file, 'r') as file:
             "Name": server_name,
             "Guid": server_name,
             "Custom Command": "Yes",
-            "Command": command
+            "Command": command,
+            "Brighten Bold Text (Light)": True
         }
         
         # 프로필 리스트에 추가
