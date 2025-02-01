@@ -1,0 +1,22 @@
+{
+    "Profiles": [
+        {
+            "Name": "server1",
+            "Guid": "server1",
+            "Custom Command": "Yes",
+            "Command": "ssh dukim59@server1"
+        },
+        {
+            "Name": "server2",
+            "Guid": "server2",
+            "Custom Command": "Yes",
+            "Command": "ssh dukim59@server2"
+        },
+        {
+            "Name": "server3",
+            "Guid": "server3",
+            "Custom Command": "Yes",
+            "Command": "ssh dukim59@server3"
+        }
+    ]
+}
